@@ -6,7 +6,7 @@ In this hw, you will work on the sample Comp484 site to determine where lists ar
 			a.	Applies to: all pages
 			b.	Examine the top-level navigation for the site. Currently all links are enclosed in an individual paragraph. Is this semantically sound? -- No
 			c. If not, organize the links into the appropriate list type
---HERE!! did index and syntax, on structure
+--FINISHED!!
 			
 2.	Examine HTML timeline
 			a.	Applies to: intro.html
